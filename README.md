@@ -9,7 +9,34 @@ GitHub: github.com/jrockr
 
 #Professional Summary
 
-Enterprise & Cloud Architect with 19+ years of experience in BFSI (Banking, Fintech, and Insurance) sectors, specializing in enterprise architecture, cloud transformation, and microservices. TOGAF 9.2 and CMMI V2.0 certified with a proven track record in designing scalable solutions, leading DevOps transformations, and optimizing technology investments.
+```
+  1.	Highly accomplished Enterprise & Solutions Architect with over 19 years of experience delivering exceptional results and business value across diverse clientele in the USA, Middle East, and Africa.
+  2.	Proven expertise in BFSI (Banking, Fintech, and Insurance) industry with a TOGAF 9.2 certification.
+  3.	Worked on Enterprise Architecture for a card payment platform processing a massive 500 million transactions and managing 100 million cards monthly.
+  4.	Possess a multi-faceted skillset including:
+        a)	Development: Java (Spring boot Certified RPA, Blockchain, and AI/ML with Python
+        b)	Cloud Platforms: Extensive experience with Azure, AWS (6 Years Experience) , and OpenShift
+        c)	Big Data Architecture: Implemented solutions using Apache Airflow, Kafka, Spark, Delta Lake, and ELK Stack
+        d)	Project Management: Agile-Scrum methodologies and PRINCE2 certified Project Manager
+        e)	Microservices Transformation: Proven ability to lead and execute the migration of monolithic applications to microservices architectures to improve scalability, agility, and maintainability.
+        f)	Legacy to Cloud Transformation: Skilled leader in guiding organizations through the transition from legacy systems to cloud-based infrastructure, optimizing performance, security, and cost efficiency.
+        g)	Quality : Demonstrated commitment to quality with a CMMI Associate certification and experience achieving CMMI Level 3 for an organization.
+        h)	Managed Team: Led cross-functional Architecture teams in designing and implementing scalable, robust solutions aligned with enterprise strategies, ensuring seamless integration across systems and platforms.
+        i)	Budget Management: Successfully planned and controlled budgets for architectural and technology initiatives, optimizing resource allocation and reducing costs without compromising quality.
+```
+
+## Vision:
+
+```
+  1.	Become a transformative leader: Drive exceptional organizational growth by spearheading innovative technology
+  2.	solutions and inspiring teams to achieve ambitious goals.
+  GOALS:
+  1.	Deliver impactful results: Lead and execute medium-to-large complex projects with a proven track record of
+  2.	success and measurable impact on the business.
+  3.	Champion enterprise architecture: As a Chief Enterprise Architect, take ownership of large and complex projects,
+  4.	ensuring successful implementation and alignment with strategic objectives.
+```
+
 
 ## Key expertise includes:
 
